@@ -12,8 +12,8 @@ React-Native PATIKASTORE
 
 ---
 
-![Screenshot](./imgReadme/Screenshot_1.png)
+![Screenshot](./imgReadme/Screenshot_2.png)
 
 ---
 
-![Screenshot](./imgReadme/Screenshot_1.png)
+![Screenshot](./imgReadme/Screenshot_3.png)
